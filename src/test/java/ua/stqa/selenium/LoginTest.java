@@ -7,6 +7,7 @@ import org.openqa.selenium.*;
 
 public class LoginTest extends TestNgTestBase{
 
+  // Comment
 
   @Test
   public void testLogin() throws Exception {
